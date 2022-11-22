@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a rel="me" href="https://hachyderm.io/@DynamicD">Mastodon</a>
 <!--
 **Justin-DynamicD/Justin-DynamicD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
